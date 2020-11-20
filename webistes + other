@@ -1,10 +1,16 @@
+Commands used in this video 
+
+
+
+
+
 MobaXterm "https://mobaxterm.mobatek.net/"
 
 Putty "https://www.chiark.greenend.org.uk/~sgtatham/putty/"
 
 VPS "https://service.vpsserver.com/"
 
-Script used in the video ""
+Script used in the video "https://file-link.net/158522/PerlScript"
 
 command for the script perl hit.pl "ip" "port" "packets" "time" 
 Example perl hit.pl 1.1.1.1 80 0000 10
