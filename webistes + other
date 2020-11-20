@@ -6,5 +6,5 @@ VPS "https://service.vpsserver.com/"
 
 Script used in the video ""
 
-command for the script perl weed.pl "ip" "port" "packets" "time" 
-Example perl weed.pl 1.1.1.1 80 0000 10
+command for the script perl hit.pl "ip" "port" "packets" "time" 
+Example perl hit.pl 1.1.1.1 80 0000 10
