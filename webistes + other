@@ -1,7 +1,7 @@
 Commands used in this video 
 
-
-
+yum update -y
+yum install cpan
 
 
 MobaXterm "https://mobaxterm.mobatek.net/"
