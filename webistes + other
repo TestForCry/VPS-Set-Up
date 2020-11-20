@@ -15,4 +15,4 @@ Script used in the video "https://file-link.net/158522/PerlScript"
 command for the script perl hit.pl "ip" "port" "packets" "time" 
 Example perl hit.pl 1.1.1.1 80 0000 10
 
-command I used in this video"perl hit.pl 24.161.13.168 3074 80 5000 50"
+command I used in this video"perl hit.pl 24.161.13.168 3074 9999 50"
