@@ -1,6 +1,16 @@
-
+--------------------
+commands to run
 
 
 apt-get install perl
+---------------------
+Other info 
+
 
 then drag your script into it 
+---------------------
+Then open putty and do 
+
+
+perl script_name.pl ip port packets time
+---------------------
